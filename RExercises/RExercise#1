@@ -1,0 +1,14 @@
+# R Beginner Test
+**By Christopher Noll**
+
+1. What class of object is mtcars? What function did you use to find out?
+
+  The class of mtcars is a list. I used the "typeof" function to determine this.
+
+2. Is precip defined as a 1-dimensional array or a vector? How did you find out?
+
+  It is. I used the "is(xxx, "something")" to ask if it is a vector, and it gave back a "TRUE" answer.
+
+3. How would you convert the data.frame trees into a matrix?
+
+  I would use the "as" function like so: trees<-
