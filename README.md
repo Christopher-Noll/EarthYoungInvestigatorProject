@@ -8,4 +8,4 @@ Although I see myself more of a vertebrate paleontologist, I am ecstatic to be w
 
 ## Take a look at some of my work so far!:
 
-- [R Exercises](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/tree/master/RExercises)
+- [R Exercises](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/tree/master/R_Exercises)
