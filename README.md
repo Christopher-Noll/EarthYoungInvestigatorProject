@@ -13,4 +13,4 @@ Although I see myself more of a vertebrate paleontologist, I am ecstatic to be w
 
 Thank you so much for your time and support!
 
-*~ Christopher Noll*
+~ *Christopher Noll*
