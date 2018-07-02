@@ -10,6 +10,7 @@ Although I see myself more of a vertebrate paleontologist, I am ecstatic to be w
 
 - *[R Exercises](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/tree/master/R_Exercises)*
 - *[Blog Posts](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/tree/master/Blog)*
+- *[Excel Sheets](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/tree/master/Excel_Folder)*
 
 Thank you so much for your time and support!
 
