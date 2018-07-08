@@ -1,6 +1,6 @@
 ![Cool Dinosaurs - Computer Background](https://img00.deviantart.net/2bca/i/2010/163/e/2/cretaceous_marine_reptiles_by_dustdevil.jpg)
 
-# **Christopher Noll's Earth Young Investigator Project, Summer 2018**
+# **Chris Noll's Earth Young Investigator Project, Summer 2018**
 Hello! My name is Christopher Noll, and this page is the collection of my contributions over the *Earth Young Investigator Biodiversity Program*, Summer 2018.
 
 So far this internship has been great and I look forward to continue to learn and grow throughout my next eight weeks!
