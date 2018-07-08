@@ -3,7 +3,7 @@
 
   Hello all! Welcome to my repository of my blogs and other musings! Click on the links below to get started!
 
-- *[July 3rd Blog Post](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/tree/master/Blogs)*
+- *[... And Then There Was R](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/blob/master/Blogs/Blog_Post_July3rd.md)*
 
 Thank you all ***SO*** for your time and support!
 
