@@ -15,7 +15,7 @@
 ![New Brighton Beach#4](assets/markdown-img-paste-20180713095434519.png)
 
 ### Luckily, the fun wasn't over! After the beach we went to the *Seymour Marine Discovery Center* to see the ***awesome*** view!:
-![New Brighton Beach#5](assets/markdown-img-paste-20180713095707540.png)]
+![New Brighton Beach#5](assets/markdown-img-paste-20180713095707540.png)
 ### Additionally, we got to see the bones of the largest animal by weight that ever lived on Earth: The Mighty Blue Whale!:
 ![New Brighton Beach #6](assets/markdown-img-paste-20180713095934737.png)
 ### Don't forget it's relative: the Grey Whale!:
