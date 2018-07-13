@@ -5,6 +5,8 @@
 
 - *[... And Then There Was R](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/blob/master/Blogs/Blog_Post_July3rd.md)*
 
+- *[... And Then There Was R](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/blob/master/Blogs/Blog_Post_July3rd.md)*
+
 Thank you all ***SO*** for your time and support!
 
 *~Christopher Noll*
