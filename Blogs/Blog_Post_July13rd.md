@@ -21,7 +21,7 @@
 ### Don't forget it's relative: the Grey Whale!:
 ![New Brighton Beach #7](assets/markdown-img-paste-20180713100550245.png)
 
-After that, we were on our way home. It was an awesome day full of exploration and great fossil finds! Thank you Ms. Saltzman and Mr. Heim for making this amazing field trip possible!
+After that, we were on our way home. It was an ***awesome*** day full of exploration and great fossil finds! Thank you Ms. Saltzman and Mr. Heim for making this amazing field trip possible!
 
 Thanks for all the support, and I look forward to the weeks ahead!
 
