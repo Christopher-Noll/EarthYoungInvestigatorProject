@@ -5,7 +5,9 @@
 
 - *[July 3rd: ... And Then There Was R](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/blob/master/Blogs/Blog_Post_July3rd.md)*
 
-- *[July 13th: Onwards and Upwards: To the Past!](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/blob/master/Blogs/Blog_Post_July13th.md)*
+- *[July 13th: Onwards and Upwards: To the Past!](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/blob/master/Blogs/Blog_Post_July13rd.md)*
+
+- *[July 13th: Onwards and Upwards: To Pinnacles and Good-Pickings!](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/blob/master/Blogs/Blog_Post_July13rd%232.md)*
 
 Thank you all ***SO*** for your time and support!
 
