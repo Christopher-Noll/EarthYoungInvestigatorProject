@@ -14,11 +14,11 @@
 ### Here's a more recent specimen: A beautifully polished shell of a crab!:
 ![New Brighton Beach#4](assets/markdown-img-paste-20180713095434519.png)
 
-Luckily, the fun wasn't over! After the beach we went to the *Seymour Marine Discovery Center* to see the ***awesome*** view!:
+### Luckily, the fun wasn't over! After the beach we went to the *Seymour Marine Discovery Center* to see the ***awesome*** view!:
 ![New Brighton Beach#5](assets/markdown-img-paste-20180713095707540.png)]
-Additionally, we got to see the bones of the largest animal by weight that ever lived on Earth: The Mighty Blue Whale!:
+### Additionally, we got to see the bones of the largest animal by weight that ever lived on Earth: The Mighty Blue Whale!:
 ![New Brighton Beach #6](assets/markdown-img-paste-20180713095934737.png)
-Don't forget it's relative: the Grey Whale!:
+### Don't forget it's relative: the Grey Whale!:
 ![New Brighton Beach #7](assets/markdown-img-paste-20180713100550245.png)
 
 After that, we were on our way home. It was an awesome day full of exploration and great fossil finds! Thank you Ms. Saltzman and Mr. Heim for making this amazing field trip possible!
