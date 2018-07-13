@@ -3,9 +3,9 @@
 
   Hello all! Welcome to my repository of my blogs and other musings! Click on the links below to get started!
 
-- *[... And Then There Was R](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/blob/master/Blogs/Blog_Post_July3rd.md)*
+- *[July 3rd: ... And Then There Was R](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/blob/master/Blogs/Blog_Post_July3rd.md)*
 
-- *[... And Then There Was R](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/blob/master/Blogs/Blog_Post_July3rd.md)*
+- *[July 13th: Onwards and Upwards: To the Past!](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/blob/master/Blogs/Blog_Post_July13th.md)*
 
 Thank you all ***SO*** for your time and support!
 
