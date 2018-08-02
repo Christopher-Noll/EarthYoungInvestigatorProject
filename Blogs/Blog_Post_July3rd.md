@@ -12,4 +12,4 @@
 
   ![Image of Cambrian Creature](http://78.media.tumblr.com/6401b106bf2a30f9b9fbf3bfbbf3724c/tumblr_mimifpOfeY1rxyvj1o1_400.gif)
 
-Christopher Noll 
+*~ Christopher Noll*
