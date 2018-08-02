@@ -9,6 +9,8 @@ Although I see myself more of a vertebrate paleontologist, I am ecstatic to be w
 
 ## Take a Look at Some of My Work So Far!:
 
+- *[My Tiering Research Page](https://github.com/naheim/paleosizePaper/tree/master/tiering)*
+
 - *[Blog Posts](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/tree/master/Blogs)*
 
 - *[Excel Sheets](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/tree/master/Excel_Folder)*
