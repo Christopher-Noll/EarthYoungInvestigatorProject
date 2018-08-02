@@ -9,7 +9,7 @@
 
 - *[July 13th: Onwards and Upwards: To Pinnacles and Good-Pickings!](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/blob/master/Blogs/Blog_Post_July13rd%232.md)*
 
-- *[August 2nd: Thank Yous and My Final Hurrah!](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/blob/master/Blogs/Blog_Post_August2nd)*
+- *[August 2nd: Thank Yous and My Final Hurrah!](https://github.com/Christopher-Noll/EarthYoungInvestigatorProject/blob/master/Blogs/Blog_Post_August2nd.md)*
 
 Thank you all ***SO MUCH*** for your time and support!
 
